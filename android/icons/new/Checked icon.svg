@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="3207 137 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fbc02d;
+      }
+
+      .cls-2 {
+        fill: #1b1b1b;
+      }
+    </style>
+  </defs>
+  <g id="Checked_icon" data-name="Checked icon" transform="translate(3040)">
+    <circle id="Ellipse_10" data-name="Ellipse 10" class="cls-1" cx="13" cy="13" r="13" transform="translate(167 137)"/>
+    <path id="check_icon" class="cls-2" d="M11.673,20.349,8.057,16.733,6.83,17.96,11.673,22.8,22.079,12.4,20.852,11.17Z" transform="translate(165.17 132.83)"/>
+  </g>
+</svg>
