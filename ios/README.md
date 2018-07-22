@@ -1,3 +1,3 @@
 iOS prototype
-- Publish prtotype (https://xd.adobe.com/view/9b2a275f-43bc-4503-b735-c800e1957e2d)
-- Publish design specs (https://xd.adobe.com/spec/37ebdddc-0a3c-40ca-baa0-36201ccf0cf4)
+- Publish prtotype (https://xd.adobe.com/view/69e9da48-9087-4a9e-9f92-ddedd0e57d64)
+- Publish design specs (https://xd.adobe.com/spec/b7ee8551-7f52-49f1-8a69-50063a9fca86)
