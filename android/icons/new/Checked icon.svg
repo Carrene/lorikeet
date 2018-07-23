@@ -1,17 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="3207 137 26 26">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #fbc02d;
-      }
-
-      .cls-2 {
-        fill: #1b1b1b;
-      }
-    </style>
-  </defs>
-  <g id="Checked_icon" data-name="Checked icon" transform="translate(3040)">
-    <circle id="Ellipse_10" data-name="Ellipse 10" class="cls-1" cx="13" cy="13" r="13" transform="translate(167 137)"/>
-    <path id="check_icon" class="cls-2" d="M11.673,20.349,8.057,16.733,6.83,17.96,11.673,22.8,22.079,12.4,20.852,11.17Z" transform="translate(165.17 132.83)"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 26 26" style="enable-background:new 0 0 26 26;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FBC02D;}
+	.st1{fill:#1B1B1B;}
+</style>
+<g id="Checked_icon" transform="translate(3040)">
+	<path class="st0" d="M-3027,0c7.2,0,13,5.8,13,13s-5.8,13-13,13s-13-5.8-13-13S-3034.2,0-3027,0z"/>
+	<path class="st1" d="M-3030.2,16.2l-3.6-3.6l-1.2,1.2l4.8,4.8l10.4-10.4L-3021,7L-3030.2,16.2z"/>
+</g>
 </svg>

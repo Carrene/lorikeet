@@ -1,19 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="4336 169 48.6 48.6">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #009688;
-      }
-
-      .cls-2 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <g id="Sucess_icon" data-name="Sucess icon" transform="translate(4180.3 31.3)">
-    <g id="Group_302" data-name="Group 302" transform="translate(5.726 5.726)">
-      <ellipse id="Ellipse_12" data-name="Ellipse 12" class="cls-1" cx="24.3" cy="24.3" rx="24.3" ry="24.3" transform="translate(149.974 131.974)"/>
-      <path id="check_icon" class="cls-2" d="M15.883,28.327,9.124,21.568,6.83,23.861l9.053,9.053,19.45-19.451L33.04,11.17Z" transform="translate(152.49 133.889)"/>
-    </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48.6 48.6" style="enable-background:new 0 0 48.6 48.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#009688;}
+	.st1{fill:#FFFFFF;}
+</style>
+<g id="Sucess_icon" transform="translate(4180.3 31.3)">
+	<g id="Group_302" transform="translate(5.726 5.726)">
+		<path class="st0" d="M-4161.7-37c13.4,0,24.3,10.9,24.3,24.3s-10.9,24.3-24.3,24.3S-4186,0.7-4186-12.7S-4175.1-37-4161.7-37z"/>
+		<path class="st1" d="M-4167.6-6.8l-6.8-6.8l-2.3,2.3l9.1,9.1l19.5-19.5l-2.3-2.3L-4167.6-6.8z"/>
+	</g>
+</g>
 </svg>

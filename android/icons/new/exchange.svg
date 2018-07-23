@@ -1,13 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="3591 191 20 20">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #999;
-      }
-    </style>
-  </defs>
-  <g id="exchange" transform="translate(3658.519 191) rotate(90)">
-    <path id="Path_40" data-name="Path 40" class="cls-1" d="M4.265,54.841,2.416,52.532H19.949V50.963H2.4l1.87-2.335-.889-1.11L0,51.735l3.377,4.216Z" transform="translate(0 0)"/>
-    <path id="Path_41" data-name="Path 41" class="cls-1" d="M17.785,268.694,16.9,269.8l1.86,2.322H1.213v1.569H18.757l-1.86,2.322.889,1.109,3.377-4.216Z" transform="translate(-1.162 -209.607)"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 20 20" style="enable-background:new 0 0 20 20;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#999999;}
+</style>
+<g id="exchange" transform="translate(3658.519 191) rotate(90)">
+	<path class="st0" d="M-186.7,3645.8l-1.8-2.3h17.5v-1.6h-17.5l1.9-2.3l-0.9-1.1l-3.4,4.2l3.4,4.2L-186.7,3645.8z"/>
+	<path class="st0" d="M-174.4,3650.1l-0.9,1.1l1.9,2.3h-17.5v1.6h17.5l-1.9,2.3l0.9,1.1l3.4-4.2L-174.4,3650.1z"/>
+</g>
 </svg>
