@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="3087 1714 20 4.857">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #424242;
+      }
+    </style>
+  </defs>
+  <g id="More_Menu_icon" data-name="More Menu icon" transform="translate(3087 1528.5)">
+    <g id="Group_278" data-name="Group 278" transform="translate(0 185.5)">
+      <path id="Path_733" data-name="Path 733" class="cls-1" d="M190.357,187.929a2.429,2.429,0,1,0-2.429,2.429A2.432,2.432,0,0,0,190.357,187.929Zm-2.429,1.429a1.429,1.429,0,1,1,1.429-1.429A1.43,1.43,0,0,1,187.929,189.357Z" transform="translate(-177.929 -185.5)"/>
+      <path id="Path_734" data-name="Path 734" class="cls-1" d="M2.429,185.5a2.429,2.429,0,1,0,2.429,2.429A2.432,2.432,0,0,0,2.429,185.5Zm0,3.857a1.429,1.429,0,1,1,1.429-1.429A1.43,1.43,0,0,1,2.429,189.357Z" transform="translate(0 -185.5)"/>
+      <path id="Path_735" data-name="Path 735" class="cls-1" d="M373.429,185.5a2.429,2.429,0,1,0,2.429,2.429A2.432,2.432,0,0,0,373.429,185.5Zm0,3.857a1.429,1.429,0,1,1,1.429-1.429A1.43,1.43,0,0,1,373.429,189.357Z" transform="translate(-355.857 -185.5)"/>
+    </g>
+  </g>
+</svg>
