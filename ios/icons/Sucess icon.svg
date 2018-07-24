@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="4069 1222 48.6 48.6">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #009688;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Sucess_icon" data-name="Sucess icon" transform="translate(3913.3 1084.3)">
+    <g id="Group_302" data-name="Group 302" transform="translate(5.726 5.726)">
+      <ellipse id="Ellipse_12" data-name="Ellipse 12" class="cls-1" cx="24.3" cy="24.3" rx="24.3" ry="24.3" transform="translate(149.974 131.974)"/>
+      <path id="check_icon" class="cls-2" d="M15.883,28.327,9.124,21.568,6.83,23.861l9.053,9.053,19.45-19.451L33.04,11.17Z" transform="translate(152.49 133.889)"/>
+    </g>
+  </g>
+</svg>
