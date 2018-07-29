@@ -1,17 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="4450 1221 48.6 48.6">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #b92d00;
-      }
-
-      .cls-2 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <g id="Failed_icon" data-name="Failed icon" transform="translate(4294.3 1083.3)">
-    <ellipse id="Ellipse_12" data-name="Ellipse 12" class="cls-1" cx="24.3" cy="24.3" rx="24.3" ry="24.3" transform="translate(155.7 137.7)"/>
-    <path id="ic_clear_48px" class="cls-2" d="M31.274,12.15,29.124,10l-8.487,8.487L12.15,10,10,12.15l8.487,8.487L10,29.124l2.15,2.15,8.487-8.487,8.487,8.487,2.15-2.15-8.487-8.487Z" transform="translate(159.7 141.7)"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48.6 48.6" style="enable-background:new 0 0 48.6 48.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B92D00;}
+	.st1{fill:#FFFFFF;}
+</style>
+<g>
+	<path class="st0" d="M24.3,0c13.4,0,24.3,10.9,24.3,24.3S37.7,48.6,24.3,48.6S0,37.7,0,24.3S10.9,0,24.3,0z"/>
+	<path class="st1" d="M35.3,16.2L33.1,14l-8.5,8.5L16.1,14L14,16.2l8.5,8.5L14,33.1l2.1,2.2l8.5-8.5l8.5,8.5l2.2-2.1l-8.5-8.5
+		L35.3,16.2z"/>
+</g>
 </svg>
