@@ -1,3 +1,3 @@
 android proto type
-- Publish prtotype (https://xd.adobe.com/view/33362919-f877-4332-a76c-4941bd0ff891/?fullscreen)
-- Publish design specs (https://xd.adobe.com/spec/4966d610-ddb9-497d-95cf-357a4f3b0a2e/)
+- Publish prtotype (https://xd.adobe.com/view/25acb100-fc5d-4178-b649-4ed0e4a52c9b/screen/6cce98ce-d3ca-430f-8b67-e12fddfddc1d/Verify-Code)
+- Publish design specs (https://xd.adobe.com/spec/a2ae35f7-b150-4082-848f-d8f826867106/screen/c5e4d8ad-7b58-440a-9687-893b4ffe5ddc)
