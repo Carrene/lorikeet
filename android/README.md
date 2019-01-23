@@ -10,4 +10,4 @@
 
 ## New version
 - [Publish prototype](https://xd.adobe.com/view/fc8a48b0-f3b2-4aed-91bb-abce8b769437/screen/3da58f21-e4d1-4620-80ee-b685cc921b4f/Notifications)
-- [Publish design specs](https://xd.adobe.com/view/2c077d80-1ef5-46d3-b25e-96edbfd5d60a/screen/0e9f0761-2a5a-47d2-9286-58e1b3f559c2/QR-codes)
+- [Publish design specs](https://xd.adobe.com/spec/7dee799c-b98e-489d-aaa6-84bc1169d4bc)
