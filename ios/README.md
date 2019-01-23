@@ -8,5 +8,5 @@
 
 
 ## New version
-- [Publish prototype](https://xd.adobe.com/view/2c077d80-1ef5-46d3-b25e-96edbfd5d60a/)
-- [Publish design specs](https://xd.adobe.com/spec/95e4a91e-b487-4069-911f-0736f9f4ea9d/)
+- [Publish prototype](https://xd.adobe.com/view/2c077d80-1ef5-46d3-b25e-96edbfd5d60a)
+- [Publish design specs](https://xd.adobe.com/spec/95e4a91e-b487-4069-911f-0736f9f4ea9d)
