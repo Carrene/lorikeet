@@ -1,4 +1,4 @@
 # lorikeet
 Alpha project prototypes
 
-![Image of lorikeet](https://www.thepinkylips.com/wp-content/uploads/2018/07/42-1.jpg)
+<img title="meerkat image" src="https://cdn.omlet.co.uk/images/cache/1024/683/Parrot-Rainbow_Lorikeet-A_Rainbow_Lorikeet's_beautiful,_little,_orange_beak.jpg" width="100%">
